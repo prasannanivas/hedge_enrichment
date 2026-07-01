@@ -27,7 +27,7 @@ module.exports = {
     {
       name: "chunk-1",
       script: "agent.py",
-      interpreter: "python3",
+      interpreter: "/root/hedge_enrichment/venv/bin/python3",
       args: [
         "--key",           process.env.GOOGLE_API_KEY || "",
         "--model",         "google:gemini-2.5-flash",
@@ -49,7 +49,7 @@ module.exports = {
     {
       name: "chunk-2",
       script: "agent.py",
-      interpreter: "python3",
+      interpreter: "/root/hedge_enrichment/venv/bin/python3",
       args: [
         "--key",           process.env.GOOGLE_API_KEY || "",
         "--model",         "google:gemini-2.5-flash",
@@ -71,7 +71,7 @@ module.exports = {
     {
       name: "chunk-3",
       script: "agent.py",
-      interpreter: "python3",
+      interpreter: "/root/hedge_enrichment/venv/bin/python3",
       args: [
         "--key",           process.env.GOOGLE_API_KEY || "",
         "--model",         "google:gemini-2.5-flash",

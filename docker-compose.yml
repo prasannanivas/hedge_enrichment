@@ -1,0 +1,13 @@
+services:
+  enrichment:
+    build: .
+    environment:
+      GOOGLE_API_KEY: ${GOOGLE_API_KEY}
+      MODEL: google:gemini-2.5-flash
+      RPM: "14"
+      INPUT: all_managers.csv
+      OUTPUT: /data/enriched_contacts_full.csv
+      RESUME: ""              # set to "1" to resume an interrupted run
+    volumes:
+      - ./data:/data          # output CSV and progress.json land here
+    restart: "no"             # don't auto-restart — agent has its own resume logic

@@ -1,0 +1,913 @@
+manager_id,manager_name,type,style,strategy,sector
+5,1290 Funds,AssetAllocation,Discretionary,Diversified,Global
+3700,168 Trading Limited,Crypto,Systematic,Market Neutral,Global
+3707,1L Capital,Market Neutral,Fund of Funds,Diversified,Global
+13,2100news,Crypto,Discretionary,Digital Asset Allocator,Global
+22,36 South Capital Advisors,Hedge Fund,Discretionary,Fundamental,Volatility
+28,3I,Infrastructure,Discretionary,Diversified,Global
+36,7orca Asset Management AG,RiskPremia,Systematic,Option Writer,Global
+3758,Abans Investment Managers,CTA,Systematic,Market Neutral,Global
+47,Abbey Capital,CTA,Fund of Funds,Diversified,Global
+49,ABCA Asset Management,Market Neutral,Systematic,Multi Strategy,Global
+3655,ABR,CTA,Systematic,Option Strategy,Equity
+59,Abraxas Capital Management,Crypto,Discretionary,Crypto LS,Global
+62,Absolute Capital,AssetAllocation,Systematic,Diversified,Global
+67,Absolute Return Capital Management,CTA,Systematic,Trend Following,Global
+4109,Acasta Partners,Hedge Fund,Discretionary,Multi Strategy,Global
+73,Accendo Capital,Equity LS,Discretionary,Fundamental,Nordic
+80,Acheron Capital,Fixed Income,Discretionary,Fundamental,Life Settlement
+81,ACM,Equity LS,Discretionary,Technical,US
+3903,AD Capital Management,Equity LS,Discretionary,Fundamental,Asia
+94,Adalpha Asset Management,CTA,Systematic,Short Term,Global
+4108,Adapt Investment Managers,CTA,Discretionary,Option Strategy,Global
+103,Advanced Alpha Advisers,CTA,Systematic,Short Term,Global
+3999,Advenio Capital Management,Equity LS,Discretionary,Fundamental,Global
+4094,AE Capital,CTA,Systematic,Multi Strategy,Global
+4015,Aegeri Capital,CTA,Discretionary,Fundamental,Commodity
+111,Aegon,Fixed Income,Discretionary,Fundamental,Global
+117,Aetolian Advisors  / Newton Capital Partners LP,CTA,Discretionary,Fundamental,Global
+120,Africa Opportunity,Private Equity,Discretionary,Diversified,Emerging
+123,AG Capital,CTA,Discretionary,Fundamental,Global
+124,Agenta Investment Management,Hedge Fund,Discretionary,Multi Strategy,Global
+128,Agility Trading,CTA,Systematic,Trend Following,Global
+4154,AGT Capital,CTA,Systematic,Multi Strategy,Global
+129,Ahead Capital Management,CTA,Discretionary,Fundamental,Global
+4508,AI Investments,Hedge Fund,Systematic,AI,Global
+152,Alcur,Equity LS,Discretionary,Fundamental,Nordic
+165,Alger,Equity LS,Discretionary,Growth,US
+166,Algert,Market Neutral,Systematic,Fundamental,Global
+3747,Alicanto Capital,Event Driven,Discretionary,Fundamental,Global
+180,Alken,Equity LS,Discretionary,Fundamental,Europe
+181,Alkeon,Equity LS,Discretionary,Fundamental,Global
+185,Allianz Global Investors,Fixed Income,Discretionary,Fundamental,Global
+187,Allington,RiskPremia,Systematic,Multi Strategy,Global
+190,Allspring,RiskPremia,Systematic,Multi Strategy,Global
+4201,ALLX Capital Markets,CTA,Systematic,Short Term,Commodity
+207,AlphaBee Asset Management,CTA,Fund of Funds,Diversified,Global
+208,Alphabeth Quant,Crypto,Discretionary,Crypto LS,Global
+209,AlphaCentric Advisors,CTA,Systematic,Option Writer,Equity
+213,AlphaSimplex Group,CTA,Systematic,Trend Following,Global
+3701,Alphemy Capital SA,Crypto,Discretionary,Digital Asset Allocator,Global
+230,Altegris Advisors,CTA,Fund of Funds,Diversified,Global
+233,Alternative Capital Advisors,CTA,Discretionary,Fundamental,Agricultural
+234,Alternative Equity Partners,Hedge Fund,Fund of Funds,Diversified,Global
+236,Alternative Liquid Fund,Hedge Fund,Fund of Funds,Diversified,Sidepocket
+250,Amber Capital,Equity LS,Discretionary,Fundamental,Global
+252,Amber Infrastructure Group,Infrastructure,Discretionary,PPP,Global
+3772,Ambrus Capital Management,CTA,Discretionary,Multi Strategy,Volatility
+256,Amedeo,Private Equity,Discretionary,Diversified,Aircraft
+264,AMFA Capital Management,CTA,Systematic,Fundamental,Global
+266,Amina Group,Crypto,Discretionary,Digital Asset Allocator,Global
+271,Amundi,Fixed Income,Discretionary,Fundamental,Global
+4000,Analog Century Management,Equity LS,Discretionary,Fundamental,Technology
+4112,Ananda Asset Management,Equity LS,Discretionary,Fundamental,Global
+276,Anchor Capital,Equity LS,Systematic,Technical,US
+280,Ancora Advisors,Event Driven,Discretionary,Fundamental,Global
+281,Anderson Creek Trading,CTA,Systematic,Trend Following,Global
+4453,Annapurna,CTA,Discretionary,Fundamental,Global
+3680,Antaurus,Equity LS,Discretionary,Fundamental,Technology
+293,Antiloop,CTA,Discretionary,Fundamental,Global
+295,AP Futures,CTA,Discretionary,Fundamental,Volatility
+297,Aperture,Fixed Income,Discretionary,Fundamental,Credit
+3939,Apis Capital Advisors,Equity LS,Discretionary,Fundamental,Global
+302,Apollo Capital Management Pty,Crypto,Discretionary,Crypto LS,Global
+4501,Apollo Multi Asset Management,Hedge Fund,Fund of Funds,Diversified,Global
+308,AQR Capital Management,Market Neutral,Systematic,Multi Strategy,Global
+310,Aquaeductus Capital As,Equity LS,Discretionary,Value,Global
+311,Aquantum,CTA,Systematic,Market Neutral,Energy
+4001,Aravali Asset Management,Fixed Income,Discretionary,Market Neutral,Credit
+319,Arca Investment Management,Crypto,Discretionary,Digital Asset Allocator,Global
+4002,Archon Capital Management,Equity LS,Discretionary,Fundamental,Global
+336,Ardea,Fixed Income,Discretionary,Market Neutral,Global
+3673,Arena Digital Capital Management,Crypto,Fund of Funds,Crypto LS,Global
+3791,Argo Capital Management,Fixed Income,Discretionary,Fundamental,Emerging
+340,Argonaut,Equity LS,Discretionary,Fundamental,Global
+4011,Armington Capital,CTA,Systematic,Multi Strategy,Global
+356,Artemis Capital Management,Equity LS,Discretionary,Fundamental,Global
+3977,Asgard Asset Management,Fixed Income,Discretionary,Market Neutral,Global
+368,Asilo Asset Management,LongOnly,Discretionary,Value,Equity
+370,Aspect Capital Limited,CTA,Systematic,Multi Strategy,Global
+375,Aspiriant,Hedge Fund,Fund of Funds,Diversified,Global
+376,Assenagon,Hedge Fund,Discretionary,Option Strategy,Volatility
+377,Asset Advisor,Hedge Fund,Discretionary,Multi Strategy,Global
+4082,Asset Management One (AMO),RiskPremia,Systematic,Diversified,Global
+4025,Astaris Capital Management,Event Driven,Discretionary,Fundamental,Global
+3855,Astignes Capital Asia,CTA,Discretionary,Fundamental,Asia
+381,Astor,LongOnly,Systematic,Diversified,Global
+4129,Astra Asset Management,Fixed Income,Discretionary,Fundamental,Credit
+388,Asymmetry Active Performance,Crypto,Discretionary,Digital Asset Allocator,Global
+389,Asymmetry Top40 Performance,Crypto,Discretionary,Digital Asset Allocator,Global
+390,ATAC,AssetAllocation,Systematic,Diversified,Global
+392,Athos,Event Driven,Discretionary,Fundamental,Asia
+3684,Atitlan Asset Management,Crypto,Systematic,Market Neutral,Global
+393,Atkins and Associates,CTA,Fund of Funds,Diversified,Currency
+394,Atlant Fonder,Equity LS,Discretionary,Option Strategy,Nordic
+396,Atlantic House,AssetAllocation,Discretionary,Diversified,Global
+399,Atlas,CTA,Discretionary,Fundamental,Global
+4440,Atomic Global Management,Crypto,Discretionary,Market Neutral,Global
+408,AuAg Funds,LongOnly,Discretionary,Fundamental,ESG
+420,Auspice Capital Advisors,CTA,Systematic,Trend Following,Global
+3685,Avanto Capital,Hedge Fund,Discretionary,Fundamental,Global
+433,Avenue Investments,Crypto,Fund of Funds,Crypto LS,Global
+435,AVM,CTA,Systematic,Fundamental,Global
+438,Axa IM,Fixed Income,Discretionary,Fundamental,Cat Bond
+3822,Axiom Alternative Investments,CTA,Discretionary,Fundamental,Fixed Income
+3821,Axiom International Investors,Equity LS,Discretionary,Fundamental,Global
+3940,Axonic Capital,Fixed Income,Discretionary,Fundamental,Credit
+446,Azimut,Fixed Income,Discretionary,Fundamental,Global
+4061,Azure Tide Holdings,Crypto,Discretionary,Market Neutral,Global
+4151,Backhouse Trading,CTA,Discretionary,Fundamental,Global
+452,Bain Capital,Equity LS,Discretionary,Fundamental,ESG
+3675,Bainbridge Partners,CTA,Systematic,Tail Protect,Equity
+4198,Bald Eagle Capital Strategies,CTA,Systematic,Short Term,Equity
+463,Bankhaus Lampe,Hedge Fund,Fund of Funds,Diversified,Global
+464,Banor,Equity LS,Discretionary,Fundamental,Global
+3656,Barclays Capital,Hedge Fund,Fund of Funds,Diversified,Global
+474,BASE Investments SICAV,Hedge Fund,Discretionary,Multi Strategy,Global
+476,Bastiat Capital,CTA,Systematic,Trend Following,Global
+488,BCV (Banque Cantonale Vaudoise),RiskPremia,Systematic,Multi Strategy,Global
+489,BDL Capital,Market Neutral,Systematic,Multi Strategy,Global
+501,Bedrock Digital Assets,Crypto,Systematic,Digital Asset Allocator,Global
+505,Being and investments,LongOnly,Discretionary,Activist,Equity
+4163,Bellator Capital,CTA,Systematic,Trend Following,Global
+509,Bellevue,AssetAllocation,Discretionary,Multi Strategy,Global
+4004,Bennelong Funds Management,Equity LS,Discretionary,Fundamental,Asia
+517,Bentley Reid & Co (UK),Crypto,Discretionary,Digital Asset Allocator,Global
+532,BIG Banco de Investimento Global,CTA,Discretionary,Multi Strategy,Global
+4005,Billings Capital Management,Equity LS,Discretionary,Fundamental,Global
+537,BioPharma,Fixed Income,Discretionary,Credit,Global
+4363,Bit Capital,Crypto,Discretionary,Crypto LS,Global
+543,Bitcoin Ether Risk-adjusted Index,Crypto,Discretionary,Digital Asset Allocator,Global
+547,BitSage Asset Management,Crypto,Discretionary,Digital Asset Allocator,Global
+559,Blackrock,Equity LS,Systematic,Multi Strategy,US
+560,Blackstone,Hedge Fund,Fund of Funds,Diversified,Global
+572,Block Asset Management Sarl,Crypto,Fund of Funds,Crypto LS,Global
+577,Blockchain Growth Index,Crypto,Discretionary,Digital Asset Allocator,Global
+583,Blue Bar Futures Trading Management,CTA,Discretionary,Multi Strategy,Agricultural
+4369,Blue Coin Capital,Crypto,Discretionary,Crypto LS,Global
+586,Blue Creek Capital Management,CTA,Discretionary,Fundamental,Global
+587,Blue Diamond Asset Management,CTA,Systematic,Market Neutral,Volatility
+594,Bluebalance,CTA,Discretionary,Fundamental,Global
+4007,BlueCove Limited,Fixed Income,Systematic,Multi Strategy,Global
+4214,Bluestem Capital Management,CTA,Systematic,Multi Strategy,Volatility
+4028,Boardman Bay Capital Management,Equity LS,Discretionary,Fundamental,Technology
+611,Bocken Trading,CTA,Discretionary,Fundamental,Agricultural
+618,Boothbay Fund Management,Hedge Fund,Fund of Funds,Diversified,Global
+619,Borea Asset Management AS,Fixed Income,Credit,Fundamental,Nordic
+629,Bowmoor Capital,CTA,Systematic,Trend Following,Global
+630,BPI,Market Neutral,Discretionary,Fundamental,Europe
+3918,Bradesco Asset Management,Fixed Income,Discretionary,Fundamental,Emerging
+631,Bramshill,Fixed Income,Discretionary,Fundamental,US
+3942,Brasil Capital,Equity LS,Discretionary,Fundamental,Emerging
+637,Brevan Howard Asset Management,CTA,Discretionary,Fundamental,Global
+641,Bridgewater,Fixed Income,Systematic,Fundamental,Global
+4320,Bridgeway Capital Management,Equity LS,Systematic,Fundamental,Global
+642,Brigade,Fixed Income,Discretionary,Fundamental,Credit
+4008,Bright Stream Capital Management,Hedge Fund,Discretionary,Fundamental,Global
+3740,Brilliance Asset Management,Equity LS,Discretionary,Fundamental,Asia
+4022,Broadmark Asset Mgmt,Equity LS,Systematic,Tactical,US
+648,Brummer & Partners,Hedge Fund,Fund of Funds,Diversified,Nordic
+651,BTG Pactual,CTA,Discretionary,Fundamental,Global
+662,Burren,Event Driven,Discretionary,Fundamental,Global
+664,Butler,Fixed Income,Discretionary,Fundamental,Europe
+667,BYC CAPITAL,Crypto,Discretionary,Digital Asset Allocator,Global
+670,C-QUADRAT Kapitalanlage,AssetAllocation,Systematic,Diversified,Global
+674,Caddo Capital Management,CTA,Systematic,Multi Strategy,Global
+675,Cadwyn Capital,CTA,Systematic,Multi Strategy,Global
+679,Calamos,Equity LS,Discretionary,Fundamental,Global
+681,Calculo Capital,CTA,Systematic,Trend Following,Commodity
+4232,Calibrate Management,Equity LS,Discretionary,Fundamental,Europe
+687,Camelot,Event Driven,Discretionary,Fundamental,Global
+690,Campbell & Company,CTA,Systematic,Multi Strategy,Global
+3704,Campsor,Crypto,Discretionary,Digital Asset Allocator,Global
+693,Candriam Investors Group,Market Neutral,Discretionary,Fundamental,Global
+695,Cantor Fitzgerald,Equity LS,Discretionary,Multi Strategy,Global
+4502,Capeview,Equity LS,Discretionary,Fundamental,Europe
+697,Capital Four Management,Fixed Income,Credit,Fundamental,High Yield
+698,Capital Fund Management,CTA,Systematic,Trend Following,Global
+3718,Capricorn Strategies,CTA,Systematic,Multi Strategy,Global
+3762,Capstone Futures Group,CTA,Systematic,Short Term,Global
+706,Capstone Investment Advisors,CTA,Systematic,Trend Following,Alternative
+3751,Captor Fund Management,LongOnly,Discretionary,Fundamental,Equity
+4389,Capula Investment Management,Hedge Fund,Discretionary,Market Neutral,Volatility
+709,Caravela Energy Partners,CTA,Discretionary,Fundamental,Energy
+711,Carbon Cap Management,CTA,Discretionary,Multi Strategy,Energy
+4147,Caretta Capital Management,CTA,Systematic,Trend Following,Global
+719,Carlsson Noren Asset Management,Fixed Income,Discretionary,Fundamental,Macro
+721,Carmignac Gestion,Equity LS,Discretionary,Fundamental,Europe
+723,CARN Capital AS,Equity LS,Discretionary,Fundamental,Europe
+724,Carnegie Asset Management,LongOnly,Active Index,Fundamental,ESG
+725,Carrhae Capital,Equity LS,Discretionary,Fundamental,Emerging
+4138,Carronade Capital Management,Fixed Income,Discretionary,Fundamental,Global
+729,CARUS-AR,Crypto,Discretionary,Digital Asset Allocator,Global
+4017,Castlebar Capital,Equity LS,Discretionary,Fundamental,Global
+4074,Catalio Capital Management,Equity LS,Discretionary,Fundamental,Health Care
+735,Catalyst Capital Advisors,LongOnly,Systematic,Trend Following,Global
+739,Catella Fondforvaltning,Fixed Income,Credit,Fundamental,Nordic
+741,Causeway,Equity LS,Discretionary,Fundamental,Global
+3850,Caygan Capital,Fixed Income,Discretionary,Multi Strategy,Global
+755,Cederberg Capital,Equity LS,Discretionary,Fundamental,Asia
+4462,Challenger Solutions,RiskPremia,Systematic,Diversified,Global
+771,Chamaeleo Capital Management,CTA,Systematic,Multi Strategy,Global
+778,Chelton Wealth,CTA,Systematic,Short Term,Currency
+779,Chenavari,Fixed Income,Discretionary,Multi Strategy,Credit
+3676,Chessica Management Corp,CTA,Systematic,Option Strategy,Equity
+4030,Chilton Investment Company,Equity LS,Discretionary,Fundamental,Global
+4122,China Alpha Fund Management,Equity LS,Discretionary,Fundamental,Asia
+788,China Asset Management (Hong Kong),Equity LS,Discretionary,Fundamental,Asia
+790,CIBC Asset Management,CTA,Discretionary,Fundamental,Currency
+792,CIFC,Fixed Income,Discretionary,Fundamental,Global
+3724,Cipher Capital Management,CTA,Systematic,Multi Strategy,Global
+795,Cipher Chain Capital,Crypto,Systematic,Market Neutral,Global
+799,CKC,Fixed Income,Discretionary,Fundamental,Global
+4460,Clear Drop,Equity LS,Discretionary,Fundamental,North America
+809,Clear Peak Capital,Equity LS,Discretionary,Fundamental,UK
+811,Cleaves Asset Management,Equity LS,Discretionary,Fundamental,Shipping
+823,Coeus Capital,CTA,Fund of Funds,Diversified,Currency
+830,COINBEST,Crypto,Discretionary,Digital Asset Allocator,Global
+832,Coincident Capital,Crypto,Discretionary,Crypto LS,Global
+838,Comhla,CTA,Systematic,Short Term,Equity
+848,Concise Capital Management,Fixed Income,Discretionary,Fundamental,High Yield
+4033,Condire Investors,Equity LS,Discretionary,Fundamental,Global
+855,Constella Capital Management,Crypto,Discretionary,Market Neutral,Global
+857,Contour Asset Management,Equity LS,Discretionary,Fundamental,Technology
+858,Contrarian Investors,CTA,Systematic,Contrarian,Commodity
+859,CONTRENDIAN,CTA,Systematic,Multi Strategy,Global
+863,Cooper Creek,Equity LS,Discretionary,Fundamental,US
+866,Cordiant,Infrastructure,Discretionary,Telecom,Global
+870,CoreCommodity Management,LongOnly,Active Index,Diversified,Commodity
+886,Creative Derivative Management,CTA,Discretionary,Fundamental,Agricultural
+887,Credere Capital,Fixed Income,Discretionary,Convertible,Global
+3766,Crescat Capital,Hedge Fund,Discretionary,Fundamental,Global
+895,Crescit Asset Management,CTA,Discretionary,Multi Strategy,Global
+898,CRM,Equity LS,Discretionary,Fundamental,US
+4392,Cross Continents Capital Management,AssetAllocation,Systematic,Fundamental,Global
+901,Crossmark Steward,Market Neutral,Systematic,Fundamental,US
+922,Crypto Finance,Crypto,Index,Index,Index
+928,Crypto Global Management,Crypto,Discretionary,Digital Asset Allocator,Global
+930,Crypto Global Management UK - Passive,Crypto,Discretionary,Digital Asset Allocator,Global
+1011,Dalton Investments,Equity LS,Discretionary,Fundamental,Asia
+1022,Davis Commodities,CTA,Discretionary,Fundamental,Agricultural
+1026,DCAP,Crypto,Discretionary,Venture,Global
+1028,DCM Systematic GP,CTA,Systematic,Multi Strategy,Global
+1033,Dearborn Capital Management,CTA,Fund of Funds,Diversified,Global
+4037,Decagon Asset Management,Event Driven,Discretionary,Multi Strategy,Global
+1035,Decalia,Equity LS,Systematic,Multi Strategy,Global
+4064,Deep Edge Fund Management,CTA,Systematic,AI,Global
+1040,DeFi  Core,Crypto,Discretionary,Digital Asset Allocator,Global
+1059,Demeter Capital Management,CTA,Discretionary,Fundamental,Agricultural
+1062,Desjardins Global Asset Management,Market Neutral,Discretionary,Fundamental,North America
+1065,Deutsche Asset Management,AssetAllocation,Discretionary,Diversified,Global
+527,DG Partners,CTA,Systematic,Trend Following,Global
+1070,Diamond Capital Management,CTA,Systematic,Multi Strategy,Equity
+1071,Diamond Hill,Equity LS,Discretionary,Value,US
+1079,Digital 9,Infrastructure,Discretionary,Telecom,Global
+3686,Digital Asset Funds Management,Crypto,Discretionary,Digital Asset Allocator,Global
+1081,Digital Asset Management (DAF),Crypto,Discretionary,Digital Asset Allocator,Global
+1089,Disciplined Alpha,Equity LS,Systematic,Fundamental,US
+1094,Ditsch Trading,CTA,Discretionary,Fundamental,Agricultural
+1095,DIVAS Asset Management,CTA,Systematic,Trend Following,Global
+1096,Divergence Trading,CTA,Systematic,Trend Following,Global
+1100,Diversitas,Crypto,Discretionary,Digital Asset Allocator,Global
+1112,DNCA Invest,Market Neutral,Discretionary,Fundamental,Europe
+1117,Dom Finance,Equity LS,Systematic,Multi Strategy,Europe
+1123,Donald Smith LP,CTA,Discretionary,Fundamental,Global
+4153,Dopamine Investments,Crypto,Discretionary,Crypto LS,Global
+1125,dormouse Limited,CTA,Systematic,Short Term,Global
+1127,Dorsey Wright,CTA,Systematic,Fundamental,Global
+4038,Drakai Capital,Fixed Income,Systematic,Multi Strategy,Credit
+3697,Drakewood Capital Management,CTA,Discretionary,Fundamental,Metal
+1140,Driehaus,Event Driven,Discretionary,Fundamental,Global
+1142,Drury Capital,CTA,Systematic,Trend Following,Global
+1143,DS Aviation,Private Equity,Discretionary,Diversified,Aircraft
+1149,Dunham,AssetAllocation,Discretionary,Diversified,Global
+1155,DWS,Hedge Fund,Discretionary,Multi Strategy,Global
+1157,Dynamic,AssetAllocation,Discretionary,Diversified,Global
+1158,Dynamic Beta Investments,CTA,Systematic,Trend Following,Global
+1169,East Coast Capital Management,CTA,Systematic,Trend Following,Global
+1173,Eaton Vance,LongOnly,Discretionary,Diversified,Currency
+1178,Eckhardt Trading Company,CTA,Systematic,Trend Following,Global
+1184,Edge Capital Investment Management,Crypto,Systematic,Market Neutral,Global
+4040,EDL Capital,Equity LS,Discretionary,Fundamental,Global
+4451,EFG Capital Management,Hedge Fund,Fund of Funds,Diversified,Global
+1190,Egerton,Equity LS,Discretionary,Fundamental,Global
+1191,EI Sturdza Funds,Equity LS,Discretionary,Fundamental,Global
+1197,EJF Investments,Private Debt,Discretionary,Fundamental,Global
+1199,Electron Capital Partners,Equity LS,Discretionary,Fundamental,Global
+1201,Elementa Management,Equity LS,Discretionary,Fundamental,Nordic
+1202,Eleva,Equity LS,Discretionary,Fundamental,Global
+1209,Ellington,Fixed Income,Discretionary,Fundamental,Credit
+1212,EMC Capital Advisors,CTA,Systematic,Multi Strategy,Global
+1216,Empureon,RiskPremia,Systematic,Option Strategy,Equity
+4077,Energy Investment Partners,Hedge Fund,Discretionary,Fundamental,Energy
+3814,Engadine Tages,Equity LS,Discretionary,Fundamental,Global
+4041,Engine Capital Management,Event Driven,Discretionary,Fundamental,Global
+4107,Enhanced Investment Products,Market Neutral,Systematic,Multi Strategy,Asia
+1222,Enko Capital Management,Fixed Income,Discretionary,Fundamental,Frontier
+1224,Ennismore,Equity LS,Discretionary,Fundamental,Europe
+3902,Entrypoint Capital,Equity LS,Systematic,Multi Strategy,Global
+1229,EPIC Investment Partners,CTA,Systematic,Trend Following,Global
+1231,Episteme Capital Partners,CTA,Systematic,Multi Strategy,Global
+4090,Epoch Capital,CTA,Systematic,Multi Strategy,Global
+1241,Estee Management Limited,Market Neutral,Systematic,Multi Strategy,Emerging
+1242,Estlander & Partners,CTA,Systematic,Trend Following,Global
+1245,Ethereal Capital,Crypto,Discretionary,Digital Asset Allocator,Global
+1253,Evergreen Commodity Advisors,CTA,Discretionary,Fundamental,Energy
+3917,Eversept Partners,Equity LS,Discretionary,Fundamental,Health Care
+1259,Exane,Market Neutral,Discretionary,Fundamental,Global
+1260,Excalibur Asset Management,Fixed Income,Discretionary,Fundamental,Global
+1262,ExoAlpha,Crypto,Systematic,Crypto LS,Global
+1270,Fair Oaks Capital,Fixed Income,Discretionary,CLO,Global
+4525,Falcon Investment Management,Hedge Fund,Fund of Funds,Diversified,Global
+1274,Falgom,CTA,Systematic,Multi Strategy,Commodity
+1282,FE Fonder,Equity LS,Discretionary,Fundamental,Europe
+1283,Federated Hermes,Market Neutral,Discretionary,Fundamental,US
+1285,Fenerator Com,Crypto,Discretionary,Digital Asset Allocator,Global
+1289,Feri,Equity LS,Systematic,Option Strategy,Europe
+4087,Fieldhouse Capital,CTA,Systematic,Trend Following,Global
+3748,Fineco Asset Management,Hedge Fund,Fund of Funds,Diversified,Global
+1303,Finlabo,Equity LS,Discretionary,Fundamental,Emerging
+1306,Firinne Capital,Crypto,Discretionary,Digital Asset Allocator,Global
+1310,First Private,LongOnly,Discretionary,Value,Global
+1317,Florin Court Capital,CTA,Systematic,Trend Following,Alternative
+1324,FMG Malta,Equity LS,Discretionary,Fundamental,Global
+1326,Folios Invest,CTA,Systematic,Multi Strategy,Global
+3828,Fondsmaglerselskabet Marselis,Fixed Income,Discretionary,Fundamental,High Yield
+4079,Forada Limited,CTA,Discretionary,Fundamental,Global
+1329,Fore Elite Capital Management,Crypto,Systematic,Market Neutral,Global
+1333,Forester,Equity LS,Discretionary,Value,US
+1338,Formue Nord,Event Driven,Discretionary,Fundamental,Global
+1339,Formuepleje Fund Management,LongOnly,Risk Parity,Multi Strategy,Global
+1340,Formula Growth Limited,Market Neutral,Discretionary,Fundamental,North America
+1348,Fortem Capital,Market Neutral,Systematic,Multi Strategy,Global
+4155,Fortera BV,Crypto,Discretionary,Digital Asset Allocator,Global
+3976,Fortlake Asset Management,Fixed Income,Discretionary,Multi Strategy,Real Estate
+3768,Fortune Financial Strategies,Fixed Income,Discretionary,Fundamental,Credit
+1353,Four Seasons Commodities,CTA,Discretionary,Market Neutral,Agricultural
+1357,Franklin K2,Hedge Fund,Fund of Funds,Diversified,Global
+1358,Franklin Templeton Investments,Hedge Fund,Fund of Funds,Diversified,Global
+4016,Frontier Commodities,CTA,Discretionary,Fundamental,Commodity
+1407,Gabelli,Event Driven,Discretionary,MergerArb,US
+3677,Gaines Capital,CTA,Systematic,Multi Strategy,Global
+4043,Galliant Advisors,Equity LS,Discretionary,Fundamental,North America
+3916,Gavea Investimentos,Hedge Fund,Discretionary,Fundamental,Emerging
+3799,GaveKal Capital,Equity LS,Discretionary,Fundamental,Asia
+1429,GCP,Fixed Income,Discretionary,ABS,Global
+3760,Geneva Capital Partners,Fixed Income,Discretionary,Fundamental,High Yield
+1442,Gersemi Asset Management AS,Equity LS,Discretionary,Fundamental,Shipping
+4224,Gesda Capital,Equity LS,Discretionary,Fundamental,Global
+4044,Gladius Capital Management,Hedge Fund,Discretionary,Option Strategy,Volatility
+4068,Gladwyne,Fixed Income,Discretionary,Credit,Global
+3802,Glazer Capital,Event Driven,Discretionary,Fundamental,Global
+1468,Global Credit Advisers,Fixed Income,Discretionary,Fundamental,Global
+1476,Global Sigma Group,CTA,Systematic,Market Neutral,Volatility
+1489,GMO,Hedge Fund,Fund of Funds,Diversified,Global
+4045,GMT Capital Corp,Equity LS,Discretionary,Fundamental,Global
+3331,Gnomon Alpha,CTA,Systematic,Fundamental,Global
+4200,Going International Asset Management Limited,CTA,Systematic,Short Term,Global
+3803,Golden Nest Capital Management,Equity LS,Discretionary,Fundamental,Global
+1506,Gordian Capital,Hedge Fund,Systematic,Multi Strategy,Global
+4046,Governors Lane,Event Driven,Discretionary,Fundamental,Global
+1512,Graham Capital Mgmt LP,CTA,Discretionary,Fundamental,Global
+4047,Grand Alliance Asset Management,Market Neutral,Discretionary,Fundamental,Asia
+1516,GrandLine Technologies,Crypto,Systematic,Market Neutral,Global
+3796,Granite Capital,CTA,Systematic,Option Strategy,Global
+1526,GreenAsh,Equity LS,Discretionary,Fundamental,Global
+4402,Greene Capital,CTA,Systematic,Trend Following,Global
+1532,Gresham House,Private Equity,Discretionary,Diversified,ESG
+1533,Gresham Investment Management,LongOnly,Active Index,Enhanced Index,Commodity
+3943,Greylock Capital Management,Fixed Income,Discretionary,Fundamental,Emerging
+1510,Grimaldi Portfolio Solutions,LongOnly,Systematic,Sector,Equity
+3743,Groupama Asset Management,Fixed Income,Discretionary,Fundamental,Credit
+4048,GROW Funds,Equity LS,Discretionary,Fundamental,Small Cap
+1548,Guggenheim Investments,Equity LS,Systematic,Fundamental,US
+1549,GuidePath,AssetAllocation,Discretionary,Diversified,Fixed Income
+1550,GuideStone Funds,Hedge Fund,Fund of Funds,Diversified,Global
+1559,H2O,Fixed Income,Discretionary,Fundamental,Credit
+1561,Hadron,Event Driven,Discretionary,Multi Strategy,Global
+4070,Hafnium Investment,CTA,Systematic,Multi Strategy,Global
+1563,Haidar Capital Management,CTA,Discretionary,Fundamental,Global
+1567,Hamer Trading,CTA,Systematic,Trend Following,Global
+1572,Hanlon,LongOnly,Systematic,Momentum,Equity
+1580,HarbourVest,Private Equity,Fund of Funds,Diversified,Global
+4104,Harwood Capital Management,Private Equity,Discretionary,Multi Strategy,Global
+1592,Hashdex,Crypto,Index,Index,Index
+1599,HBK Capital Management,Hedge Fund,Discretionary,Multi Strategy,Global
+3815,Hedge Invest,Market Neutral,Discretionary,Fundamental,Europe
+1607,HELSINKI CAPITAL PARTNERS,Equity LS,Discretionary,Fundamental,Nordic
+1611,Heritage Capital Management,CTA,Systematic,Multi Strategy,Global
+1616,HgCapital,Private Equity,Discretionary,Diversified,Global
+4421,HGNH International Asset Management,CTA,Systematic,Multi Strategy,Global
+1617,HICL,Infrastructure,Discretionary,Diversified,Global
+4423,Hillroute Capital,Crypto,Systematic,Crypto LS,Global
+1629,Hilton,AssetAllocation,Discretionary,Income,Global
+1635,HODLers,Crypto,Discretionary,Digital Asset Allocator,Global
+3659,Holland Park,Crypto,Discretionary,Digital Asset Allocator,Global
+3761,Holloway Trading,CTA,Discretionary,Fundamental,Agricultural
+4051,Hondius Capital Management,CTA,Discretionary,Fundamental,Global
+4111,Hook Mill Capital Partners,Equity LS,Discretionary,Fundamental,Consumer
+1641,Horizon,AssetAllocation,Discretionary,Diversified,Global
+1647,HP Fondsmaglerselskab,Fixed Income,Discretionary,Fundamental,Nordic
+3816,HSBC,Hedge Fund,Fund of Funds,Diversified,Global
+1651,Hundredfold,AssetAllocation,Discretionary,Alternative,Fixed Income
+1653,Hunting Hill Global Capital,Crypto,Discretionary,Crypto LS,Global
+1656,Hussman,Equity LS,Systematic,Value,US
+4374,Hydra Asset Management,CTA,Discretionary,Option Strategy,Equity
+1667,Hyperion Decimus,Crypto,Systematic,Crypto LS,Global
+3719,Hypersphere Ventures,Crypto,Discretionary,Digital Asset Allocator,Global
+1671,ICG,Private Equity,Fund of Funds,Diversified,Global
+1672,ICM Investment Management,LongOnly,Discretionary,Diversified,Equity
+4121,Icon Asset Management,Market Neutral,Systematic,Multi Strategy,Global
+1683,Iguana Investments,Equity LS,Systematic,Fundamental,Global
+3933,Ikarian Capital,Equity LS,Discretionary,Fundamental,Health Care
+1696,IMS,AssetAllocation,Discretionary,Income,Global
+1701,Incline Global Management,Equity LS,Discretionary,Fundamental,Global
+1702,Incline Investment Management,CTA,Systematic,Trend Following,Global
+1705,Incrementum AG,Crypto,Index,Index,Index
+1713,INDIGO Fund Partners,Crypto,Discretionary,Digital Asset Allocator,Global
+4140,Indus Capital Partners,Equity LS,Discretionary,Fundamental,Global
+1727,Insight Investment Management,Fixed Income,Discretionary,Fundamental,Global
+1736,International Public Partnerships,Infrastructure,Discretionary,Diversified,Global
+4032,Intrinsic Edge,Equity LS,Discretionary,Fundamental,Small Cap
+1739,Intuitive Investments Group,Private Equity,Discretionary,Diversified,Health Care
+1740,Invenomic,Equity LS,Discretionary,Fundamental,US
+4091,Inverewe Capital London,Fixed Income,Discretionary,Fundamental,Global
+1758,Ironshield Capital Management,Fixed Income,Discretionary,Fundamental,Credit
+4152,ISEC Services,Equity LS,Discretionary,Fundamental,Global
+4319,Ishares,CTA,Systematic,Trend Following,Global
+1772,IXI Fund Managers,CTA,Systematic,Multi Strategy,Currency
+1774,J E Moody,CTA,Systematic,Market Neutral,Commodity
+3944,Jacobs Asset Management,Equity LS,Discretionary,Fundamental,Global
+3991,Jamarant Capital,Event Driven,Discretionary,Fundamental,US
+1786,JanusHenderson,Equity LS,Discretionary,Fundamental,Europe
+3837,JC Clark,Equity LS,Discretionary,Fundamental,Global
+1790,JD Turner Capital,CTA,Systematic,Multi Strategy,Global
+1794,JHancock,Hedge Fund,Fund of Funds,Diversified,Global
+4054,Jinde Asset Management (Hong Kong),Hedge Fund,Systematic,Fundamental,Emerging
+1798,JK,AssetAllocation,Discretionary,Diversified,Global
+1805,JMS,Equity LS,Discretionary,Fundamental,Europe
+1809,John Street Capital,RiskPremia,Systematic,Multi Strategy,Global
+1818,JPEL,Private Equity,Discretionary,Diversified,Global
+1819,JPMorgan,Equity LS,Discretionary,Fundamental,Global
+1833,JZ Capital Partners,Private Debt,Discretionary,Diversified,SME
+1839,Kairos,Equity LS,Discretionary,ESG,Europe
+4055,Kawa Capital Management,Fixed Income,Discretionary,Fundamental,Global
+4056,Kernow Asset Management Limited,Equity LS,Discretionary,Fundamental,Europe
+4057,Kerrisdale Capital Management,Equity LS,Discretionary,Fundamental,Global
+1866,Kettle Hill,Equity LS,Discretionary,Fundamental,Small Cap
+4058,Kinetic Advisors,Equity LS,Discretionary,Fundamental,Global
+4364,King Street Capital Management,Fixed Income,Discretionary,Fundamental,Credit
+1880,Kite Lake Capital Management,Event Driven,Discretionary,Fundamental,Global
+4199,KLI Asset Management,CTA,Discretionary,Fundamental,Global
+1882,KLP Kapitalforvaltning AS,Market Neutral,Discretionary,Fundamental,Energy
+1887,Knights of Columbus,Equity LS,Discretionary,Multi Strategy,Global
+4059,Kondor Invest,Hedge Fund,Discretionary,Fundamental,Emerging
+3962,Krensavage Asset Management,Equity LS,Discretionary,Fundamental,Health care
+4060,Kryger Capital,Event Driven,Discretionary,Fundamental,Global
+1905,Lake Geneva Investment Partners,Fixed Income,Systematic,Multi Strategy,Global
+1906,Lancaster,Equity LS,Discretionary,Fundamental,Global
+1907,Lancelot Asset Management,LongOnly,Discretionary,Fundamental,Global
+3994,Landscape Capital Management,Equity LS,Systematic,Multi Strategy,Global
+1908,Landseer AM,Equity LS,Discretionary,Fundamental,Europe
+3992,Lansdowne Partners,Equity LS,Discretionary,Fundamental,Global
+1909,Lansforsakringar Fondforvaltning,LongOnly,Active Index,Enhanced Index,Global
+1910,Latitude,Equity LS,Discretionary,Fundamental,Global
+3993,LBV Asset Management,Equity LS,Discretionary,Fundamental,Global
+3774,Leadenhall,Fixed Income,Discretionary,Fundamental,Cat Bond
+1918,Leadersel,Event Driven,Discretionary,Fundamental,Global
+1919,LeanVal Asset Management AG,CTA,Systematic,Market Neutral,Volatility
+1920,Leapmach Capital Management Limted,CTA,Discretionary,Option Writer,Equity
+1924,Legal & General,Fixed Income,Discretionary,Fundamental,Global
+1929,Lemania Pension,AssetAllocation,Discretionary,Diversified,Global
+1930,Lemanik,Hedge Fund,Fund of Funds,Diversified,Global
+1932,Lemvi SA,Crypto,Discretionary,Market Neutral,Global
+1937,Leuthold,LongOnly,Discretionary,Value,Closed End
+1940,Levendi,Hedge Fund,Discretionary,Structured Products,Europe
+1946,LFIS,CTA,Systematic,Multi Strategy,Global
+1947,LGT Capital Partners,Fixed Income,Discretionary,Fundamental,Cat Bond
+3990,Liberty Park Capital Management,Equity LS,Systematic,Multi Strategy,Small Cap
+3989,Lighthouse Canton,Fixed Income,Discretionary,Fundamental,Global
+3890,Line Investment Technologies,CTA,Systematic,Trend Following,Global
+1960,Liontrust,Fixed Income,Discretionary,Fundamental,Global
+3744,Lior Global Partners,CTA,Discretionary,Fundamental,Global
+1962,Literacy Capital,Private Equity,Discretionary,Diversified,UK
+4337,LM5 Capital,Crypto,Systematic,Market Neutral,Global
+3987,LMCG Investments,Fixed Income,Systematic,Multi Strategy,Global
+1967,LMS Capital,Private Equity,Discretionary,Diversified,Global
+4270,Loblolly Trading,CTA,Systematic,Seasonal,Global
+1970,LoCorr Fund Management,Equity LS,Fund of Funds,Multi Strategy,Global
+3886,Locust Wood Capital Advisers,Equity LS,Discretionary,Fundamental,Global
+1976,Longboard Asset Management LP,Equity LS,Systematic,Momentum,US
+3935,Longitude Asia Limited,Fixed Income,Discretionary,Convertible,Global
+1978,LongTail Alpha,CTA,Systematic,Trend Following,Global
+1983,Lotus Asset Management Limited,CTA,Systematic,Multi Strategy,Global
+1990,LS Opportunity,Equity LS,Discretionary,Fundamental,US
+1992,Lucerne Capital Management,Equity LS,Discretionary,Fundamental,Nordic
+1995,Lumyna,Fixed Income,Systematic,Multi Strategy,Global
+2001,Lupus,Equity LS,Discretionary,Fundamental,Europe
+2005,Lynx Asset Management,CTA,Systematic,AI,Global
+2008,Lyxor,LongOnly,Risk Parity,Diversified,Global
+4210,LZ Finance,CTA,Systematic,Multi Strategy,Global
+2010,M&R Capital,CTA,Discretionary,Fundamental,Agricultural
+2011,M1 Capital,Crypto,Systematic,Market Neutral,Global
+2012,M11 Funds,Crypto,Discretionary,Crypto LS,Global
+1304,M3Sixty Capital,Equity LS,Discretionary,Fundamental,US
+3887,Machina Capital,Market Neutral,Systematic,Multi Strategy,Global
+2019,Macrocapital Limited,CTA,Discretionary,Fundamental,Energy
+3819,Maltese Capital Management,Equity LS,Discretionary,Fundamental,Global
+2047,Man AHL,AssetAllocation,Systematic,Multi Strategy,Global
+2048,Man GLG,LongOnly,Discretionary,Fundamental,Asia
+4120,Man Solutions,Fixed Income,Discretionary,Fundamental,Credit
+2049,Mandatum,CTA,Systematic,Trend Following,Global
+3984,Mark Asset Management,Equity LS,Discretionary,Fundamental,Global
+2068,Marketfield,Equity LS,Discretionary,Fundamental,Global
+4069,Markov Capital,Market Neutral,Systematic,Multi Strategy,Nordic
+2072,MarshallWace,Market Neutral,Systematic,Fundamental,ESG
+2075,Marwyn,LongOnly,Discretionary,Value,Europe
+2076,Massar Capital Management,CTA,Discretionary,Fundamental,Global
+2083,Matisse,LongOnly,Discretionary,Stock Picking,US
+4522,Matrixport Asset Management,Crypto,Systematic,Digital Asset Allocator,Global
+4213,Maune Fund Management,CTA,Systematic,Option Strategy,Global
+2094,McNeill Trading,CTA,Discretionary,Fundamental,Agricultural
+2098,Mediobanca,Fixed Income,Discretionary,Fundamental,Europe
+2099,Meeder,AssetAllocation,Discretionary,Diversified,Global
+2103,Melissinos Trading,CTA,Systematic,Trend Following,Global
+2104,Melqart Asset Management,Event Driven,Discretionary,Fundamental,Global
+2113,Merian Global Investors,Market Neutral,Systematic,Multi Strategy,Global
+2118,Meriti Capital,Market Neutral,Systematic,Fundamental,Global
+2125,Metastrategy,Crypto,Discretionary,Digital Asset Allocator,Global
+3961,Meteora Capital,Event Driven,Discretionary,Fundamental,Global
+2131,Metori Capital Management,CTA,Systematic,Trend Following,Global
+2136,MFM,Fixed Income,Discretionary,Credit,Europe
+2137,MFS,Hedge Fund,Discretionary,Fundamental,Global
+2143,Michael J Frischmeyer,CTA,Systematic,Trend Following,Global
+2158,Minerva,LongOnly,Discretionary,Diversified,Emerging
+4238,Miralta Bank,Fixed Income,Discretionary,Fundamental,Global
+2166,MKP Capital Management,CTA,Discretionary,Fundamental,Global
+2169,ML Tech,Crypto,Systematic,Crypto LS,Global
+2175,Molinero Capital Management,CTA,Systematic,Multi Strategy,Commodity
+2178,MOMentum Alternative Investments,Equity LS,Discretionary,Fundamental,Global
+3959,Monash Investors,Equity LS,Discretionary,Fundamental,Asia
+2185,Moneta,Equity LS,Discretionary,Fundamental,Europe
+3649,Morningstar,LongOnly,Systematic,Diversified,Global
+2206,Morningstar Alternatives,Hedge Fund,Systematic,Diversified,Global
+2208,Motus Capital Management,Crypto,Discretionary,Digital Asset Allocator,Global
+3650,Mount Lucas Management Corporation,RiskPremia,Systematic,Multi Strategy,Global
+2210,Mountains and Valleys,Crypto,Discretionary,Digital Asset Allocator,Global
+4076,Move37 Capital,CTA,Systematic,AI,Global
+4029,MPM BioImpact,Equity LS,Discretionary,Fundamental,ESG
+2213,MQS Management,Market Neutral,Systematic,Multi Strategy,Global
+4495,MRB Fund Partners AG,Hedge Fund,Discretionary,Fundamental,Emerging
+2215,MS Capital Management Limited,CTA,Systematic,Trend Following,Global
+2226,Mulvaney Capital Management,CTA,Systematic,Trend Following,Global
+2229,Mutiny,AssetAllocation,Systematic,Diversified,Global
+2241,Nanjia Capital Limited,Market Neutral,Systematic,Multi Strategy,Global
+2246,Natixis ASG,Hedge Fund,Systematic,Multi Strategy,Global
+2264,New Capital (EFG),Hedge Fund,Fund of Funds,Diversified,Global
+3979,New Holland Capital,Hedge Fund,Fund of Funds,Diversified,Global
+2272,Newton,AssetAllocation,Discretionary,Diversified,Global
+4401,Nidaros Capital Management AS,Equity LS,Discretionary,Fundamental,Europe
+3930,Nikko Asset Management,Equity LS,Discretionary,Fundamental,Asia
+2287,NilssonHedge Index,NilssonHedge Index,NilssonHedge Index,NilssonHedge Index,NilssonHedge Index
+4105,Nine Masts Capital,Equity LS,Discretionary,Fundamental,Global
+3957,Nipun Capital,Equity LS,Systematic,Fundamental,Asia
+3958,Nishkama Capital,Equity LS,Discretionary,Fundamental,Technology
+3954,No Street Capital,Equity LS,Discretionary,Fundamental,Small Cap
+2297,Nomura,Market Neutral,Discretionary,Fundamental,Asia
+2303,Nordic Archipelago Investments,Equity LS,Discretionary,Fundamental,Nordic
+2309,Nordkinn Asset Management,Fixed Income,Discretionary,Fundamental,Nordic
+2311,Norselab,Fixed Income,Discretionary,Fundamental,ESG
+4352,Norselab Credit Management,Fixed Income,Discretionary,Credit,Nordic
+3056,North Square Investments,LongOnly,Systematic,Diversified,Equity
+4509,NuAlpha,Crypto,Systematic,Market Neutral,Global
+2334,Numberline Capital Partners,CTA,Systematic,Market Neutral,Global
+2336,Numen,Fixed Income,Discretionary,Multi Strategy,Europe
+2338,Nuveen,Equity LS,Discretionary,Fundamental,US
+2341,NWOne,CTA,Systematic,AI,Commodity
+2347,Oakhurst,Hedge Fund,Fund of Funds,Diversified,Global
+2349,Oakley Capital Investments,Private Equity,Discretionary,Diversified,Technology
+2352,OakTree,Fixed Income,Discretionary,Fundamental,Global
+2356,Ocean Arete,CTA,Discretionary,Fundamental,Asia
+2357,Oceanic Investment Management Limited,Hedge Fund,Discretionary,Fundamental,Commodity
+3969,Old Orchard Capital Management,Fixed Income,Discretionary,Fundamental,Muni
+3633,One River Asset Management,CTA,Systematic,Tail Protect,Global
+2381,OnTrack,Hedge Fund,Fund of Funds,Diversified,Global
+2383,OP Fund Management,Hedge Fund,Fund of Funds,Diversified,Global
+4099,Openside Capital,CTA,Discretionary,Fundamental,Agricultural
+2389,Optima Fund Management,CTA,Fund of Funds,Diversified,Global
+3947,Optis Investment Management,Equity LS,Discretionary,Fundamental,Global
+2399,Opus Futures,CTA,Discretionary,Fundamental,Agricultural
+4128,Oriental Patron,CTA,Systematic,Multi Strategy,Global
+2406,Origo Fonder,Equity LS,Discretionary,Fundamental,Nordic
+1064,Orion Brinker Capital,Hedge Fund,Fund of Funds,Diversified,Global
+2409,Orion Resource Partners,CTA,Discretionary,Fundamental,Metal
+2417,Ospraie Management,CTA,Discretionary,Fundamental,Commodity
+4494,Ossiam,Market Neutral,Systematic,ESG,Global
+2419,Othania Invest,AssetAllocation,Systematic,Diversified,Equity
+4234,Otus Capital Management,Equity LS,Discretionary,Fundamental,Europe
+3949,Owl Creek Asset Management,Fixed Income,Discretionary,Fundamental,Credit
+2423,Ox Capital,Equity LS,Discretionary,Fundamental,Asia
+2425,Oxford Algorithms,CTA,Systematic,AI,Global
+3858,P Schoenfeld Asset Management,Event Driven,Discretionary,Fundamental,Global
+4149,PAAMCO Prisma,Hedge Fund,Multi PM,Multi Strategy,Global
+4066,Pacific Asset Management,CTA,Discretionary,Fundamental,Global
+3893,Pangolin Investment Management,Equity LS,Discretionary,Fundamental,Asia
+2452,Pantheon International,Private Equity,Discretionary,Diversified,Global
+3950,Parallax Volatility Advisers,Market Neutral,Discretionary,Option Strategy,Global
+4095,Parity Asset Management (Singapore),Hedge Fund,Discretionary,Fundamental,Global
+2466,Parus Finance,Equity LS,Discretionary,Fundamental,Global
+2467,Parvin,LongOnly,Systematic,Option Strategy,Equity
+2470,Patronus Capital Management,CTA,Systematic,Multi Strategy,Global
+3951,Pavise Capital Management,Equity LS,Discretionary,Fundamental,Global
+3938,PCJ Investment Counsel,Market Neutral,Discretionary,Fundamental,Global
+2481,Pecunio,Crypto,Discretionary,Digital Asset Allocator,Global
+2483,Penco Capital Management,CTA,Discretionary,Market Neutral,Commodity
+2485,Pensum Asset Management,Equity LS,Discretionary,Fundamental,Global
+2492,Pershing square,Equity LS,Discretionary,Fundamental,Global
+2493,Persimmon,Equity LS,Discretionary,Technical,US
+3691,Petersen & Partners Investment Management,Fixed Income,Discretionary,Credit,Nordic
+2496,Petrus Advisers,Equity LS,Discretionary,Value,Europe
+2505,Pharo Global Advisors,CTA,Discretionary,Fundamental,Emerging
+4141,Phase3 Capital Management,CTA,Systematic,Multi Strategy,Fixed Income
+2507,Phoenix Asset Management,Private Equity,Discretionary,Diversified,Europe
+2509,Picard Angst,LongOnly,Active Index,Enhanced Index,Commodity
+3763,Pictet Mahoney,Market Neutral,Discretionary,Fundamental,Global
+2514,Pilgrim Partners Asia,CTA,Systematic,Multi Strategy,Global
+2515,PIMCO,CTA,Discretionary,Fundamental,Global
+3834,Pinpoint Asset Management,Equity LS,Discretionary,Fundamental,Asia
+2528,PL Digital Management Pte,Crypto,Systematic,Crypto LS,Global
+2531,Plaintext Capital Management,Crypto,Systematic,Crypto LS,Global
+4239,Plenisfer Investment,AssetAllocation,Discretionary,Diversified,Global
+2537,Plotinus Asset Management,CTA,Systematic,Short Term,Equity
+2539,Plurimi Investment Managers,AssetAllocation,Discretionary,Fundamental,Global
+2544,Plutus21 Blockchain Capital,Crypto,Discretionary,Digital Asset Allocator,Global
+2549,Polar Asset Management Partners,Equity LS,Discretionary,Fundamental,North America
+3838,Polar Capital,Fixed Income,Discretionary,Convertible,Global
+4123,Polus Capital Management,Fixed Income,Discretionary,Fundamental,Global
+2558,Portal Asset Management,Crypto,Fund of Funds,Crypto LS,Global
+3726,Portland Hill Capital,Event Driven,Discretionary,Multi Strategy,Global
+2567,Power,AssetAllocation,Discretionary,Diversified,Global
+2569,PPF - PMG Partners Funds,Private Equity,Fund of Funds,Diversified,Global
+2574,Premium Capital Advisors AG,CTA,Systematic,Short Term,Global
+4145,Primoat,Equity LS,Discretionary,Fundamental,Global
+4211,Principa Capital,CTA,Discretionary,Fundamental,Global
+2595,Prior & Nilsson Fond och Kapitalforvaltning,Hedge Fund,Fund of Funds,Multi Strategy,Global
+2597,PrivilEdge,Event Driven,Discretionary,Fundamental,Global
+2602,ProChain Capital,Crypto,Discretionary,Digital Asset Allocator,Global
+2607,ProFunds,Crypto,Systematic,Digital Asset Allocator,Global
+2612,Prolific Capital Markets,Crypto,Discretionary,Crypto LS,Global
+4491,Proshares,CTA,Systematic,Trend Following,Global
+2616,Protean Funds Scandinavia,Equity LS,Discretionary,Fundamental,Small Cap
+2622,Proxy P Management,Equity LS,Discretionary,Fundamental,Energy
+4124,PSquared Asset Management,Fixed Income,Discretionary,Fundamental,Credit
+2635,Purple Valley Capital,CTA,Systematic,Trend Following,Global
+2639,Pythagoras Management Company,Crypto,Systematic,Market Neutral,Global
+2644,QCAM Currency Asset Management AG,CTA,Systematic,Sentiment,Currency
+2645,QDRA Pty,CTA,Systematic,Market Neutral,Commodity
+2650,QMS Capital Management LP,CTA,Systematic,Multi Strategy,Global
+2652,QQFund.com,CTA,Systematic,Trend Following,Global
+4062,QSM,Equity LS,Discretionary,Value,Global
+2657,QTS Capital Management,CTA,Systematic,Trend Following,Global
+2659,Quadriga,Equity LS,Systematic,Option Strategy,Equity
+3795,Quantedge Capital,RiskPremia,Systematic,Multi Strategy,Global
+2669,Quantica Capital AG,LongOnly,Systematic,Trend Following,Global
+2670,Quantified,Hedge Fund,Fund of Funds,Diversified,Global
+2672,Quantitative Investment Management,CTA,Systematic,Short Term,Global
+2675,Quantix Commodities LP,CTA,Discretionary,Multi Strategy,Commodity
+4455,QuantStream Limited,CTA,Systematic,Multi Strategy,Commodity
+4500,Quantum Hedging CTA,CTA,Discretionary,Fundamental,Agricultural
+4452,Quantum Price Action Futures,CTA,Systematic,Short Term,Equity
+3692,Quintik Capital,CTA,Systematic,Trend Following,Global
+2706,Ramsey Quantitative Systems,CTA,Systematic,Option Strategy,Equity
+2714,Rational Advisors,Equity LS,Discretionary,Option Strategy,Global
+2716,RBC GAM,Fixed Income,Discretionary,Fundamental,Credit
+2717,RCMA Capital,CTA,Discretionary,Fundamental,Commodity
+3980,Re7 Capital,Crypto,Systematic,Market Neutral,Global
+2720,Record Currency Management,Fixed Income,Discretionary,Fundamental,Emerging
+2724,Red Rock Capital,CTA,Systematic,Multi Strategy,Commodity
+2725,Redhedge,Fixed Income,Systematic,Multi Strategy,Global
+2727,Redwood,CTA,Systematic,Trend Following,Equity
+2728,Redwood Partners,Equity LS,Discretionary,Fundamental,US
+2729,Refima Capital Management,Fixed Income,Discretionary,Fundamental,Europe
+2731,Regulus Global Aadvisors,CTA,Systematic,Trend Following,Global
+2734,Renaissance Technologies,Equity LS,Systematic,Multi Strategy,Global
+4235,Resonanz,Hedge Fund,Fund of Funds,Diversified,Global
+2739,RESQ,AssetAllocation,Discretionary,Diversified,Global
+2740,Ress Capital,Fixed Income,Discretionary,Fundamental,Life Settlement
+2744,Revolution Capital Management,CTA,Systematic,Short Term,Global
+2747,RG Niederhoffer Capital Management,CTA,Systematic,Short Term,Global
+2755,Ridge Capital,Fixed Income,Discretionary,Fundamental,High Yield
+4115,Riposte Capital,Equity LS,Discretionary,Fundamental,Global
+2770,Rivemont Investments,Crypto,Discretionary,Digital Asset Allocator,Global
+4088,RiverNorth Capital Management,Event Driven,Discretionary,Fundamental,Global
+2773,RiverPark,Equity LS,Discretionary,Fundamental,US
+2774,Riverstone,Private Debt,Discretionary,Fundamental,ESG
+4489,Robofunds Global,Equity LS,Systematic,AI,Global
+2784,Robust Methods,CTA,Discretionary,Multi Strategy,Global
+3926,Rollo Capital Management,Equity LS,Discretionary,Fundamental,Global
+4240,Rothschild & Co,CTA,Systematic,Multi Strategy,Global
+2804,Roubaix Capital,Equity LS,Discretionary,Fundamental,Small Cap
+2809,Royal London,Fixed Income,Discretionary,Fundamental,Global
+2814,RPM Risk & Portfolio Management,CTA,Fund of Funds,Diversified,Global
+2818,Rubrics,LongOnly,Active Index,Diversified,Fixed Income
+2819,Ruffer,Hedge Fund,Discretionary,Multi Strategy,Global
+2820,Runa Digital Assets,Crypto,Discretionary,Crypto LS,Global
+2827,RV Capital Management,CTA,Discretionary,Fundamental,Asia
+2833,S W Mitchell Capital,Equity LS,Discretionary,Fundamental,Global
+4212,S2F Capital Management,Crypto,Systematic,Crypto LS,Global
+3856,Saba Capital,Fixed Income,Discretionary,Tail Protect,Global
+3923,Sagil Capital,Equity LS,Discretionary,Fundamental,Emerging
+3679,Samara Alpha Management,Crypto,Discretionary,Market Neutral,Global
+3665,Sand Grove,Event Driven,Discretionary,Multi Strategy,Global
+2854,Sandler,Equity LS,Discretionary,Fundamental,US
+2858,Sanlam,LongOnly,Risk Parity,Enhanced Index,Equity
+3745,Santander,RiskPremia,Systematic,Diversified,Global
+2861,Sarkis,CTA,Discretionary,Fundamental,Energy
+2873,Scenius Capital Management,Crypto,Fund of Funds,Crypto LS,Global
+2877,Schindler Capital Management,CTA,Discretionary,Technical,Agricultural
+2879,Schot Capital Limited,CTA,Systematic,Trend Following,Global
+2880,Schroders,Hedge Fund,Fund of Funds,Diversified,Global
+4096,Schultze Asset Management,Event Driven,Discretionary,Fundamental,Global
+3884,Scopia Capital Management,Market Neutral,Discretionary,Fundamental,Global
+2888,Seahawk,Equity LS,Discretionary,Fundamental,Global
+2900,Sector Theta AS,Equity LS,Discretionary,Fundamental,Japan
+2903,Securis,Fixed Income,Discretionary,Fundamental,Cat Bond
+3920,Sefton Place Advisors,Equity LS,Discretionary,Fundamental,Global
+3894,Seligman Investments,Equity LS,Discretionary,Fundamental,Technology
+2908,Selwood,Equity LS,Discretionary,Fundamental,Europe
+2912,Sentat Asset Management,Equity LS,Discretionary,Fundamental,Global
+2917,Sequoia,Infrastructure,Discretionary,Diversified,Global
+3907,Shadowfall Capital & Research,Equity LS,Discretionary,Fundamental,Europe
+2928,Shadowridge Capital,CTA,Systematic,Multi Strategy,Equity
+2930,Shannon River,Equity LS,Discretionary,Fundamental,Technology
+3666,Sharper Machine,Equity LS,Systematic,Multi Strategy,Global
+2938,Sherborne,Equity LS,Discretionary,Activist,Global
+2942,Shinfalls Commodities,CTA,Discretionary,Fundamental,Metal
+2947,Sibilla Capital,Hedge Fund,Discretionary,Fundamental,Global
+4101,Signal Capital Partners,Fixed Income,Discretionary,Fundamental,Europe
+4351,Signum Varainhoito,Hedge Fund,Discretionary,Fundamental,Global
+2956,Silver8,Crypto,Discretionary,Crypto LS,Global
+2958,SilverDome Investment Partners,AssetAllocation,Discretionary,Diversified,Global
+1654,Sinohope Asset,Crypto,Discretionary,Crypto LS,Global
+2961,SinoPac Asset Management Asia,CTA,Systematic,Multi Strategy,Global
+3909,Sio Capital Management,Equity LS,Discretionary,Fundamental,Health Care
+4433,Sissener,LongOnly,Discretionary,Fundamental,Equity
+2964,Sissener AS,Hedge Fund,Discretionary,Fundamental,Nordic
+2965,Sivers Urban Fonder,Equity LS,Discretionary,Fundamental,Nordic
+2972,Skandinaviska Kreditfonden,Fixed Income,Discretionary,Fundamental,Private Loans
+3908,Slater Investments,Equity LS,Discretionary,Fundamental,Europe
+2995,SMI,AssetAllocation,Systematic,Diversified,Global
+3001,SMN Investment Services,CTA,Systematic,Trend Following,Global
+3007,Soaring Pelican,CTA,Systematic,Multi Strategy,Global
+4365,Societe Generale Investment Solutions,RiskPremia,Systematic,Multi Strategy,Commodity
+4294,Sofinnova Investments,Equity LS,Discretionary,Fundamental,Health Care
+3829,Solidum Partners AG,Fixed Income,Discretionary,Fundamental,Cat Bond
+4507,Space Edge Technology Limited,CTA,Systematic,Fundamental,Global
+4236,Sparx Group,Equity LS,Discretionary,Fundamental,Japan
+3037,Spectrum Advisors,AssetAllocation,Discretionary,Diversified,Global
+3797,Sphera Funds Management,Equity LS,Discretionary,Fundamental,Emerging
+4223,SPX Capital,CTA,Discretionary,Fundamental,Global
+3048,SRV Capital,Fixed Income,Credit,Fundamental,Europe
+3050,St Petri Capital,Equity LS,Discretionary,Fundamental,Europe
+3051,St. Gotthard Fund Management,Crypto,Discretionary,Digital Asset Allocator,Global
+3058,Standard Life,Fixed Income,Discretionary,Fundamental,Global
+3059,Standpoint,CTA,Systematic,Trend Following,Global
+3722,Stoka Global Management,Crypto,Discretionary,Crypto LS,Global
+3078,Stolt Kapitalforvaltning AS,LongOnly,Systematic,Fundamental,Small Cap
+4271,Stony Point Capital,Equity LS,Discretionary,Fundamental,Global
+3082,Storm Capital Management,Fixed Income,Discretionary,Fundamental,Nordic
+4020,Stouff Capital,Equity LS,Systematic,Multi Strategy,Global
+3085,Strada General,CTA,Systematic,Multi Strategy,Global
+3870,Strategic Investment Advisors,Equity LS,Discretionary,Fundamental,Commodity
+3906,Stratobridge Asset Management,Fixed Income,Discretionary,Market Neutral,Global
+3106,Stylus Capital,Crypto,Systematic,Crypto LS,Global
+3108,Suir Valley,Private Equity,Discretionary,Diversified,Venture
+3883,SummerHaven Investment Management,CTA,Systematic,Multi Strategy,Commodity
+3117,Superfund Capital Management,CTA,Systematic,Trend Following,Global
+3138,Swiss Rock,LongOnly,Active Index,Multi Strategy,Metal
+3143,SwissRex AG,Crypto,Systematic,Crypto LS,Global
+3146,Sycomore,Equity LS,Discretionary,Fundamental,Europe
+3147,Symmetry,Hedge Fund,Fund of Funds,Diversified,Global
+3149,Symmetry Invest,Equity LS,Discretionary,Fundamental,Europe
+3156,SysCat Capital,CTA,Systematic,Short Term,Global
+3160,Systematica Investments,CTA,Systematic,Trend Following,Alternative
+3164,SZKB,LongOnly,Active Index,Fundamental,ESG
+3171,Tabula,Fixed Income,Systematic,Fundamental,Credit
+3174,Tages,CTA,Discretionary,Fundamental,Fixed Income
+3176,Takahe Capital,CTA,Systematic,Trend Following,Global
+3185,Taranis SA,CTA,Systematic,Multi Strategy,Equity
+2495,Tavira Financial,Equity LS,Discretionary,Fundamental,North America
+3190,Taylor Maritime,Private Equity,Discretionary,Diversified,Shipping
+3191,TCW,Fixed Income,Discretionary,Fundamental,Global
+3192,Teberg,AssetAllocation,Discretionary,Diversified,Global
+3793,Telligent Capital Management,Equity LS,Discretionary,Fundamental,Asia
+3711,Tenac Asset Management,Fixed Income,Discretionary,Fundamental,Emerging
+3203,Tenax,AssetAllocation,Discretionary,Diversified,Global
+4150,Terreplein Investment Management,CTA,Systematic,Market Neutral,Commodity
+3211,Tetragon Financial Group,Private Equity,Fund of Funds,Diversified,Global
+3214,TGCC,CTA,Systematic,Trend Following,Global
+3223,The Covered Bridge,Equity LS,Discretionary,Option Strategy,US
+3230,The Great O'Neill,CTA,Discretionary,Fundamental,Commodity
+3836,The Investment Trust of India,Equity LS,Discretionary,Fundamental,Asia
+3237,The Tape Reader,CTA,Systematic,Trend Following,Global
+3250,ThirdYear Capital,CTA,Systematic,Multi Strategy,Global
+3256,Tianyou Asset Management,CTA,Systematic,Option Writer,Equity
+3260,Tidan Capital,CTA,Systematic,Short Term,Global
+3261,Tiedemann,Event Driven,Discretionary,MergerArb,Global
+3263,Tikehau,AssetAllocation,Discretionary,Fundamental,Global
+3671,TIND Asset Management,Equity LS,Discretionary,Fundamental,Nordic
+3882,Titan Capital Investments,CTA,Discretionary,Technical,Agricultural
+3268,Titanium,Crypto,Discretionary,Digital Asset Allocator,Global
+3269,TitaniumStrategy Titanium,Crypto,Discretionary,Digital Asset Allocator,Global
+3285,TOBAM,Crypto,Index,Index,Index
+3293,Top 25 Coins Index,Crypto,Discretionary,Digital Asset Allocator,Global
+3868,Trafalgar Capital Management,Equity LS,Discretionary,Fundamental,US
+4479,Trajectory Capital Group,CTA,Systematic,Tail Protect,Volatility
+4103,Trans-Canada Capital,Hedge Fund,Discretionary,Multi Strategy,Global
+3315,Transtrend BV,CTA,Systematic,Trend Following,Global
+3899,Trek Capital Management,Equity LS,Discretionary,Fundamental,US
+3328,Triaxiom Capital,CTA,Systematic,Market Neutral,Global
+3336,Triple Alpha Index,Crypto,Discretionary,Digital Asset Allocator,Global
+4083,Triton Bay Capital,CTA,Systematic,Short Term,Global
+3337,Trium Capital,RiskPremia,Systematic,Multi Strategy,Global
+3340,Troy Asset Management,AssetAllocation,Discretionary,Diversified,Global
+4272,Trutino Capital Management,Fixed income,Discretionary,Market Neutral,Credit
+3348,TT International,Equity LS,Discretionary,Fundamental,Europe
+3350,Tudor Investment Corp,CTA,Systematic,Trend Following,Global
+3351,Tufton Oceanic,Private Equity,Discretionary,Diversified,Shipping
+4243,Tungsten Capital,AssetAllocation,Discretionary,Diversified,Global
+3358,Twelve,Fixed Income,Discretionary,Fundamental,Cat Bond
+3866,Twin Capital Management,Event Driven,Systematic,Fundamental,Global
+3898,Twin Tree Capital Management,CTA,Systematic,Option Strategy,Equity
+3857,Tyrus Capital Alternatives,Fixed Income,Discretionary,Convertible,Global
+3374,UBS,Equity LS,Discretionary,Fundamental,China
+3379,Unfair Advantage Systems,Crypto,Systematic,Crypto LS,Global
+4373,Union Investment Institutional,Market Neutral,Systematic,Multi Strategy,Global
+3864,Union Square Park Capital Management,Event Driven,Discretionary,Multi Strategy,Global
+4523,United Bankers (UB),Equity LS,Discretionary,Fundamental,Global
+3833,United Managers Japan,Equity LS,Discretionary,Technical,Asia
+3788,Universal Investment,RiskPremia,Systematic,Multi Strategy,Volatility
+4324,Unlimited Funds,CTA,Systematic,Trend Following,Global
+3391,Uptrak Capital,CTA,Systematic,Multi Strategy,Global
+4063,UTXO Management,Crypto,Discretionary,Crypto LS,Global
+4080,Vadantia,CTA,Systematic,AI,Currency
+3404,Valent Asset Management,CTA,Discretionary,Fundamental,Global
+4164,Valiant Asset Management,Event Driven,Discretionary,Fundamental,Europe
+3410,Valorem Investments,CTA,Systematic,Short Term,Currency
+3419,VanEck,Crypto,Discretionary,Crypto LS,Global
+3424,Varenne,Equity LS,Discretionary,Multi Strategy,Global
+3863,Variance Capital Asset Management,CTA,Systematic,Multi Strategy,Volatility
+4071,Veerpoint Capital,CTA,Systematic,Multi Strategy,Global
+3433,Velocity Merchant,CTA,Discretionary,Multi Strategy,Energy
+3434,Velox Capital,Equity LS,Systematic,Multi Strategy,Global
+3437,Veritas,Equity LS,Discretionary,Fundamental,Asia
+3853,Verition Fund Management,Hedge Fund,Fund of Funds,Diversified,Global
+3440,Versor Investments,CTA,Systematic,Trend Following,Global
+3443,Vest,Crypto,Systematic,Digital Asset Allocator,Global
+3444,VIA,Hedge Fund,Systematic,Diversified,Global
+3446,Victory,Market Neutral,Systematic,Fundamental,US
+3862,Victory Asset Management,Market Neutral,Systematic,Multi Strategy,Global
+4371,Vigama Capital,Market Neutral,Discretionary,Fundamental,Global
+3448,Vigo Capital,CTA,Discretionary,Multi Strategy,Global
+3937,Vinland Capital,Hedge Fund,Discretionary,Fundamental,Emerging
+3452,Virtuoso Advisory,Equity LS,Discretionary,Fundamental,Europe
+3454,Virtus,Hedge Fund,Fund of Funds,Diversified,Global
+3456,VISIO Asset Management,Equity LS,Discretionary,Fundamental,Europe
+3467,Volt Capital Management,CTA,Systematic,AI,Global
+3474,VPC,Fixed Income,Discretionary,Alternative,Global
+3832,Wada Capital Management,Equity LS,Discretionary,Fundamental,Asia
+3764,Waha Capital,Fixed Income,Discretionary,Fundamental,Emerging
+4329,WanGuo Capital,Hedge Fund,Systematic,Multi Strategy,China
+3487,Wasatch,Equity LS,Discretionary,Option Strategy,US
+3488,Water Island,Event Driven,Discretionary,MergerArb,US
+3491,WaterValley Capital Management,Hedge Fund,Systematic,Market Neutral,Global
+3492,Wave Digital Assets,Crypto,Discretionary,Digital Asset Allocator,Global
+3496,Waverton,AssetAllocation,Fund of Funds,Diversified,Global
+3497,Waycross,Equity LS,Discretionary,Fundamental,US
+3507,Weitz Investment Management,Equity LS,Discretionary,Fundamental,US
+3513,Welton Investment Partners,Equity LS,Systematic,Multi Strategy,Global
+3514,WesMark,AssetAllocation,Discretionary,Diversified,Global
+3515,Westbeck,Equity LS,Discretionary,Fundamental,Energy
+4126,Westbourne River,Event Driven,Discretionary,Fundamental,Global
+2111,Westchester Capital Management,Event Driven,Discretionary,Multi Strategy,Global
+3519,Westwood,Market Neutral,Discretionary,Fundamental,US
+3848,Wexford Capital,Equity LS,Discretionary,Fundamental,Global
+3522,Wharton Capital Management,CTA,Discretionary,Fundamental,Agricultural
+4130,Whetstone Capital Advisors,Equity LS,Discretionary,Fundamental,Global
+3540,Wilmington,Equity LS,Discretionary,Fundamental,US
+3542,Wincent,Crypto,Systematic,Market Neutral,Global
+3550,Wisdom MarkoP,Crypto,Discretionary,Digital Asset Allocator,Global
+3551,WisdomTree Investments,CTA,Systematic,Trend Following,Global
+3552,Wiston Capital,Crypto,Discretionary,Digital Asset Allocator,Global
+3556,WMX Crypto,Crypto,Discretionary,Digital Asset Allocator,Global
+3847,Wolverine Asset Management,Hedge Fund,Discretionary,Multi Strategy,Global
+4170,Worth Venture Partners,CTA,Systematic,AI,Equity
+3568,Xaia,Fixed Income,Discretionary,Market Neutral,Global
+3972,XBTO Global,Crypto,Systematic,Crypto LS,Global
+3789,Xcent,Hedge Fund,Fund of Funds,Diversified,Global
+3573,Xeqos,CTA,Systematic,Multi Strategy,Global
+3579,xWin,Crypto,Systematic,Crypto LS,Global
+3581,Yakira Capital Management,Event Driven,Discretionary,Fundamental,Global
+3759,Zenith Investment Management,Crypto,Discretionary,Crypto LS,Global
+3606,Zest,Equity LS,Discretionary,Fundamental,Europe
+4142,Zweig-DiMenna,CTA,Discretionary,Fundamental,Global

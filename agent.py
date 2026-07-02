@@ -39,6 +39,7 @@ from bs4 import BeautifulSoup
 from ddgs import DDGS
 from pydantic import BaseModel, Field
 from pydantic_ai import Agent, RunContext
+from pydantic_ai.usage import UsageLimits
 
 # =============================================================================
 # Config
@@ -414,7 +415,10 @@ def make_agents(model_name: str) -> tuple:
 def gemini_find_website(agent: Agent, name: str, fund_type: str) -> str:
     _rate_limiter.wait()
     try:
-        result = agent.run_sync(f"Fund: {name}\nType: {fund_type}")
+        result = agent.run_sync(
+            f"Fund: {name}\nType: {fund_type}",
+            usage_limits=UsageLimits(request_limit=5),  # max 5 LLM round-trips
+        )
         url = (result.output.url or "").strip()
         log.info(f"  Gemini website: {url!r}")
         if not url:
@@ -435,7 +439,8 @@ def gemini_find_contacts(agent: Agent, name: str, fund_type: str, website: str) 
     _rate_limiter.wait()
     try:
         result = agent.run_sync(
-            f"Fund: {name}\nType: {fund_type}\nKnown website: {website or 'not found'}"
+            f"Fund: {name}\nType: {fund_type}\nKnown website: {website or 'not found'}",
+            usage_limits=UsageLimits(request_limit=8),  # max 8 LLM round-trips
         )
         data = result.output
         log.info(f"  Gemini contacts: email={data.email!r} conf={data.confidence!r}")

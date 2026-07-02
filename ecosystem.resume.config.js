@@ -1,28 +1,11 @@
-// PM2 Ecosystem Config — Hedge Enrichment (3 parallel chunks)
+// PM2 Resume Config — adds --resume flag to all chunks
+// Use this after a crash, server reboot, or manual stop.
 //
-// 3,766 managers split across 3 processes:
-//   chunk-1 : managers    0–1254  (~1255 managers)
-//   chunk-2 : managers 1255–2509  (~1255 managers)
-//   chunk-3 : managers 2510–3766  (~1256 managers)
-//
-// Each chunk hits the API at 5 RPM → 15 RPM total (free-tier safe).
-// On a paid key, raise rpm to 14 each → 42 RPM total → ~3 hrs.
-//
-// COMMANDS
-// ─────────────────────────────────────────────
-// Fresh start:
-//   GOOGLE_API_KEY=YOUR_KEY pm2 start ecosystem.config.js
-//
-// Resume all (after crash / reboot):
+// Resume all 3:
 //   GOOGLE_API_KEY=YOUR_KEY pm2 start ecosystem.resume.config.js
 //
 // Resume one chunk only:
 //   GOOGLE_API_KEY=YOUR_KEY pm2 start ecosystem.resume.config.js --only chunk-1
-//
-// Monitor:
-//   pm2 status            # process table
-//   pm2 logs              # live logs all 3
-//   pm2 logs chunk-1      # single chunk
 
 const PYTHON   = "/root/hedge_enrichment/venv/bin/python3";
 const MODEL    = "google:gemini-2.5-flash";
@@ -45,6 +28,7 @@ module.exports = {
         "--limit",         "1255",
         "--output",        "output_chunk1.csv",
         "--progress-file", "progress_chunk1.json",
+        "--resume",
       ],
       autorestart: false,
       log_file:    "logs/chunk1.log",
@@ -64,6 +48,7 @@ module.exports = {
         "--limit",         "1255",
         "--output",        "output_chunk2.csv",
         "--progress-file", "progress_chunk2.json",
+        "--resume",
       ],
       autorestart: false,
       log_file:    "logs/chunk2.log",
@@ -83,6 +68,7 @@ module.exports = {
         "--limit",         "1256",
         "--output",        "output_chunk3.csv",
         "--progress-file", "progress_chunk3.json",
+        "--resume",
       ],
       autorestart: false,
       log_file:    "logs/chunk3.log",
